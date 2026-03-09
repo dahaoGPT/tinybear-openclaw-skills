@@ -1,0 +1,8 @@
+{
+    "name": "ppt-maker",
+    "version": "1.0.0",
+    "description": "Create, edit and read PowerPoint presentations using natural language. Supports templates, charts, and professional layouts.",
+    "author": {
+        "name": "Your Name"
+    }
+}
