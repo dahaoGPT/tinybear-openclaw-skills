@@ -1,0 +1,8 @@
+{
+    "name": "zfcg-news-seeker",
+    "version": "1.0.0",
+    "description": "监控并抓取浙江省政府采购网最新的公款竞争性存放公告，支持指定特定日期，过滤特定关键字并汇总发送到飞书及存入飞书表格。",
+    "author": {
+        "name": "OpenClaw AI Worker"
+    }
+}
